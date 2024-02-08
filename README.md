@@ -27,7 +27,7 @@ Here are the routes you need to use:
 * `/conn-a` (Get): gets content from a table of database connection 'A'
 
 
-* `/conn-b` (Get): gets content from a table of database connection 'A'
+* `/conn-b` (Get): gets content from a table of database connection 'B'
 
 
 ## Local Development
